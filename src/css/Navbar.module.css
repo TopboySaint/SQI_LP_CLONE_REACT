@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bungee&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200&family=Titan+One&display=swap');
+.nav{
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    border-bottom: 1px solid gray;
+}
+.nav_img{
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+}
+.nav_img:hover{
+    cursor: pointer;
+}
+.headlinks{
+    transform: translate(600px, -50px);
+    display: flex;
+    gap: 30px;
+}
+.link{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(44,64,154);
+}
