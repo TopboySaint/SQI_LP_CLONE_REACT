@@ -5,6 +5,7 @@
     width: 100%;
     z-index: 999;
     border-bottom: 1px solid gray;
+    background-color: #fff;
 }
 .nav_img{
     width: 80px;
