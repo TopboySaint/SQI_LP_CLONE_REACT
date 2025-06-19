@@ -1,0 +1,25 @@
+.enquire{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    justify-content: center;
+}
+.prog{
+    border: none;
+    width: 25%;
+    margin-top: 80px;
+}
+.prog h3{
+    font-family: poppins, sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000e54;
+    padding-bottom: 5px;
+}
+.prog p{
+    font-family: poppins, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 550;
+    color: #666;
+    line-height: 25px;
+}

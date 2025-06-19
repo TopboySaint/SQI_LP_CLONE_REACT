@@ -7,23 +7,24 @@
 }
 .divs{
     display: flex;
+    justify-content: center;
 }
 .study h1{
     font-size: 64px;
     font-weight: 800;
     color: #000e42;
-    padding: 100px;
-    line-height: 70px;
+    padding: 80px;
+    line-height: 75px;
     font-family: helvetica, sans-serif;
 }
 .study p{
     font-size: 16px;
     font-weight: 400;
     color:#474747;
-    padding: 60px;
+    padding: 40px;
     font-family: poppins;
-    transform: translate(0px, -150px);
-    margin-left: 40px;
+    transform: translate(0px, -100px);
+    margin-left: 50px;
 }
 .study button{
     background-color: #00208a;
@@ -35,8 +36,8 @@
     border: none;
     border-radius: 20px;
     font-family: poppins;
-    transform: translate(0px, -190px);
-    margin-left: 105px;
+    transform: translate(90px, -130px);
+    /* margin-left: 105px; */
 }
 .study img{
     width: 450px;
