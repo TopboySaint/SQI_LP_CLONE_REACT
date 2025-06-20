@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Certification from './components/Certification';
 import Certificate from './components/Certificate';
 import Courses from './components/Courses';
+import Alumni from './components/Alumni';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Certification />
       <Certificate />
       <Courses />
+      <Alumni />
     </>
   );
 };
