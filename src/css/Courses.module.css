@@ -1,0 +1,204 @@
+.course{
+    border:none;
+    width: 500px;
+    height: 750px;
+    border-radius: 40px;
+    box-shadow: 0px 0px 100px 0px #d2e9d8;
+    background: #d5e9f2;
+    transform: translate(150px, 220px );
+}
+.course img{
+    width: 390px;
+    height: 200px;
+    border-radius: 20px;
+    transform: translate(50px, 65px );
+}
+.course h3{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .333;
+    transform: translate(50px, 80px );
+}
+.course p{
+    font-size: 13px;
+    font-weight: 520;
+    font-family: poppins;
+    color: .000;
+    line-height: 30px;
+    padding: 8px 50px;
+    transform: translate(0px, 80px);
+}
+.course a{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .050754;
+}
+.course a:hover{
+    color:#E06100;
+}
+.more{
+    transform: translate(50px, 100px);
+}
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+.course2{
+    border: 1px solid black;
+    width: 500px;
+    height: 750px;
+    border-radius: 40px;
+    background: #eeefbd;
+    box-shadow: 0px 0px 100px 0px #ffdfda;
+    transform: translate(150px, 50px);
+}
+.course2 h3{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .333;
+    transform: translate(50px, 80px );
+}
+.course2 p{
+    font-size: 13px;
+    font-weight: 520;
+    font-family: poppins;
+    color: .000;
+    line-height: 30px;
+    padding: 8px 50px;
+    transform: translate(0px, 80px);
+}
+.course2 a{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .050754;
+}
+.course2 a:hover{
+    color:#E06100;
+}
+.more2{
+    transform: translate(50px, 100px);
+}
+.course2 img{
+    width: 390px;
+    height: 250px;
+    border-radius: 20px;
+    transform: translate(50px, 65px );
+}
+.course3{
+    border: none;
+    width: 500px;
+    height: 750px;
+    border-radius: 40px;
+    background: #e0d5c0;
+    box-shadow: 0px 0px 100px 0px #d2e9d8;
+    transform: translate(150px, 200px );
+}
+.course3 img{
+    width: 390px;
+    height: 250px;
+    border-radius: 20px;
+    transform: translate(50px, 65px );
+}
+.course3 h3{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .333;
+    transform: translate(50px, 80px );
+}
+.course3 p{
+    font-size: 13px;
+    font-weight: 520;
+    font-family: poppins;
+    color: .000;
+    line-height: 30px;
+    padding: 8px 50px;
+    transform: translate(0px, 80px);
+}
+.course3 a{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .050754;
+}
+.course3 a:hover{
+    color:#E06100;
+}
+.more3{
+    margin-bottom: 20px;
+    transform: translate(50px, 100px);
+}
+.course4{
+    border: 1px solid black;
+    width: 500px;
+    height: 850px;
+    border-radius: 40px;
+    background: #dfd5e8;
+    box-shadow: 0px 0px 500px 0px #ffdfda;
+    transform: translate(150px, 30px);
+}
+.course4 img{
+    width: 390px;
+    height: 250px;
+    border-radius: 20px;
+    transform: translate(50px, 65px );
+}
+.course4 h3{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .333;
+    transform: translate(50px, 80px );
+}
+.course4 p{
+    font-size: 13px;
+    font-weight: 520;
+    font-family: poppins;
+    color: .000;
+    line-height: 30px;
+    padding: 8px 50px;
+    transform: translate(0px, 80px);
+}
+.course4 a{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .050754;
+}
+.course4 a:hover{
+    color:#E06100;
+}
+.more4{
+    transform: translate(50px, 100px);
+}
+.view{
+    transform: translate(150px, 150px );
+}
+.view h2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: poppins;
+    color: .333;
+}
+.view p{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: poppins, sans-serif;
+    color: .666;
+    padding-bottom: 30px;
+}
+.view a{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: poppins, sans-serif;
+    color: .002095;
+    margin-top: 25px;
+}
+.view a:hover{
+    color:#E06100 ;
+}
