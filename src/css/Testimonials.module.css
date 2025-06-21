@@ -1,0 +1,157 @@
+.google{
+    height: 250px;
+    width: 300px;
+}
+.ibd{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    transform: translate(125px,30px)
+}
+.reviews{
+    display: flex;
+    gap: 50px;
+    transform: translate(170px,500px)
+}
+.monials{
+    transform: translate(150px,450px)
+}
+.monials h2{
+    font-family: poppins;
+    color: #333;
+    font-weight: 700;
+    font-size: 48px;
+}
+.monials p{
+    font-family: poppins;
+    color: #474747;
+    font-weight: 500;
+    font-size: 14px;
+}
+.stars img{
+    height:22px;
+    width: 22px;
+    transform: translate(65px,55px)
+}
+.ict{
+    font-family: Helvetica, sans-serif;
+    color: #333;
+    font-weight: 700;
+    font-size: 14px;
+    position: relative;
+    top: 50px;
+}
+.rating{
+    font-family: Helvetica, sans-serif;
+    color:#FB8E28;
+    font-weight: 600;
+    font-size: 21px;
+    position: relative;
+    top: 52px;
+    left: 65px;
+}
+.base{
+    font-family: Helvetica, sans-serif;
+    color: #555;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    top: 75px;
+    right: 85px;
+}
+.power{
+    width: 200px;
+    height: 50px;
+    transform: translateY(100px);
+}
+.displaypic{
+    width: 60px;
+    height: 60px;
+    transform: translate(20px,20px);
+}
+.googlesim a{
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    color: #154FC1;
+    font-weight: 700;
+    font-size: 14px;
+    position: relative;
+    bottom: 30px;
+    left: 85px;
+}
+.power img{
+    width: 120px;
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+.year{
+    color:#555555;
+    font-weight: 400;
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 85px;
+    font-family: Helvetica, sans-serif;
+}
+.pic{
+    margin-left: 20px;
+}
+.pic img{
+    height:22px;
+    width: 22px;
+}
+.onG{
+    height:32px;
+    width: 130px;
+    padding-left: 15px;
+    padding-top: 2.5px;
+    background: #0a6cff;
+    border-radius: 50px;
+    transform: translate(75px,90px);
+}
+.onG a{
+    color:#fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.onG img{
+    height:18px;
+    width: 18px;
+    background: white;
+    border-radius: 100%;
+    transform: translate(5px,4px);
+}
+.googlesim p{
+    color:#222;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 18px;
+    line-height: 20px;
+}
+.googlesim{
+    height: 250px;
+    width: 300px;
+    background: #fafafa;
+}
+.scroll{
+    height: 130px;
+    width: 290px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.scroll::-webkit-scrollbar{
+    width: 5px;
+}
+.scroll::-webkit-scrollbar-track{
+    background: #d4d4d4;
+    height: 50px;
+}
+.scroll::-webkit-scrollbar-thumb{
+    border-radius: 20px;
+    background: #8c8c8c;
+    height: 5px;
+}
