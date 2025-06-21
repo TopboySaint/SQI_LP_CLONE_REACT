@@ -5,6 +5,7 @@ import Certification from './components/Certification';
 import Certificate from './components/Certificate';
 import Courses from './components/Courses';
 import Alumni from './components/Alumni';
+import Tour from './components/Tour';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Certificate />
       <Courses />
       <Alumni />
+      <Tour />
     </>
   );
 };
