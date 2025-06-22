@@ -15,7 +15,7 @@ const Faq = () => {
                 <div className={Styles.newtt}>
                     <a href="#">How do I get into the college</a>
                     <a href="#">How much is the tuition?</a> 
-                    <a href="#">Are your classNamees physical or virtual</a> 
+                    <a href="#">Are your classes physical or virtual</a> 
                     <a href="#">Will I get a job after my training?</a>
                 </div>
             </div>

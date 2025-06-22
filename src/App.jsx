@@ -9,6 +9,7 @@ import Tour from './components/Tour';
 import Testimonials from './components/Testimonials';
 import Whysqi from './components/Whysqi';
 import Faq from './components/Faq';
+import News from './components/News';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Testimonials/>
       <Whysqi />
       <Faq/>
+      <News/>
     </>
   );
 };
