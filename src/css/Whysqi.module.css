@@ -1,0 +1,47 @@
+.why{
+    transform: translateY(150px);
+}
+.whystudy{
+    display: flex;
+    justify-content: center;
+}
+.at{
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+.sqi{
+    width: 35%;
+}
+.sqi img{
+    width: 350px;
+    height: 900px;
+}
+.reason{
+    width: 300px;
+    height: 200px;
+}
+.para{
+    padding-top: 10px;
+    font-family: poppins;
+    color: #666;
+    font-weight: 500;
+    font-size: 14px;
+}
+.hee{
+    font-family: poppins;
+    color: #666;
+    font-weight: 600;
+    font-size: 38px;
+    padding-left: 95px;
+    padding-bottom: 30px;
+}
+.project{
+    font-family: Helvetica, sans-serif;
+    color: #333;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 20px;
+}
