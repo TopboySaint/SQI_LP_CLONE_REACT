@@ -8,6 +8,7 @@ import Alumni from './components/Alumni';
 import Tour from './components/Tour';
 import Testimonials from './components/Testimonials';
 import Whysqi from './components/Whysqi';
+import Faq from './components/Faq';
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
       <Tour />
       <Testimonials/>
       <Whysqi />
+      <Faq/>
     </>
   );
 };
