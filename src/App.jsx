@@ -10,6 +10,7 @@ import Testimonials from './components/Testimonials';
 import Whysqi from './components/Whysqi';
 import Faq from './components/Faq';
 import News from './components/News';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
       <Whysqi />
       <Faq/>
       <News/>
+      <Footer/>
     </>
   );
 };

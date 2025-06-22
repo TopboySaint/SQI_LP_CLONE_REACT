@@ -1,0 +1,82 @@
+.locateus{
+    display: flex;
+    gap: 30px;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    justify-content: center;
+}
+.location{
+    width: 200px;
+}
+
+.mediasocial{
+    padding-bottom: 10px;
+}
+
+.enquiry{
+    position: relative;
+    bottom: 20px;
+}
+
+.location h6{
+    color:#333;
+    font-family:poppins;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.location p{
+    color:#666;
+    font-family:poppins;
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+.location a{
+    color:#2EA3F2;
+    font-family:poppins;
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+.trong{
+    color:#666;
+    font-family:poppins;
+    font-size: 14px;
+    font-weight: bold;
+}
+.top{
+    padding-top:30px !important;
+}
+.links a{
+    color: #666;
+    font-family:poppins;
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.location h3{
+    color:#00208A;
+    font-family:poppins;
+    font-size: 19px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.location h4{
+    color:#333;
+    font-family:poppins;
+    font-size: 15px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+footer{
+    color:#fff;
+    font-family:poppins;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 0px 10px 100px;
+    background: #050044;
+}
