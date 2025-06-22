@@ -1,12 +1,13 @@
 import React from 'react'
-import Styles from '../css/Testimonials.module.css' 
-import fullStar from '../images/fullstar.svg'
+import Styles from '../css/Testimonials.module.css'
+import fullStar from '../images/fullstar.svg';
 import halfStar from '../images/svgexport-2.svg'
 import powerGoogle from '../images/powered_by_google_on_white.png'
 import googlelogo from '../images/222.png'
-import ibIcon from '../images/2021-07-31 (1).jpg'
-import dimejiIcon from '../images/unnamed (4).png'
-import seyiIcon from '../images/unnamed (3).png'
+import ibIcon from '../images/2021-07-31-1.jpg';
+import dimejiIcon from '../images/unnamed-4.png';
+import seyiIcon from '../images/unnamed-3.png';
+
 
 const Testimonials = () => {
   return (
